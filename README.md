@@ -15,3 +15,7 @@ scikit-learn: For machine learning (linear regression, model evaluation).
 Matplotlib/Plotly: For data visualization.
 pandas: Data manipulation and analysis.
 numpy: For numerical computations.
+
+Contributions
+Feel free to fork this repository and submit pull requests for any enhancements or fixes!
+
